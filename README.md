@@ -21,5 +21,5 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=saba383810&show_icons=true&theme=default" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saba383810"&hide=shaderlab/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saba383810"&hide=shaderLab/>
 </a>
