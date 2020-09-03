@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <p>- 📫 How to reach me:saba383810@gmail.com<p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=saba383810&show_icons=true&theme=default" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=saba383810&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saba383810"&hide=shaderLab/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saba383810&hide=haderLab"/>
 </a>
