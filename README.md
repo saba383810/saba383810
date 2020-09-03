@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>- 🌱 I'm currently learning Unity VR</p>
+<p>- 🌱 I'm currently learning Unity VR.</p>
 <p>- 📫 How to reach me:saba383810@gmail.com<p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
