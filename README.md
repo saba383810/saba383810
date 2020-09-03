@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saba383810)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saba383810&hide=shaderlab)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saba383810&hide=shaderlab,hlsl)](https://github.com/anuraghazra/github-readme-stats)
