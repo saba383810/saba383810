@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-- 🌱 I'm currently learning Unity VR
-- 📫 How to reach me:saba383810@gmail.com
+<p>- 🌱 I'm currently learning Unity VR</p>
+<p>- 📫 How to reach me:saba383810@gmail.com<p>
 
