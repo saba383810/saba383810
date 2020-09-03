@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 <p>- 🌱 I'm currently learning Unity VR</p>
 <p>- 📫 How to reach me:saba383810@gmail.com<p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saba383810)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saba383810&hide=shaderlab,hlsl)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=saba383810&show_icons=true&theme=default" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuta0601"&hide=shaderlab/>
+</a>
