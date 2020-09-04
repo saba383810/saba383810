@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>- 🌱 I'm currently learning Unity VR.</p>
-<p>- 📫 How to reach me:saba383810@gmail.com<p>
+<p>🌱 I'm currently learning Unity VR.</p>
+<p>📫 How to reach me:saba383810@gmail.com<p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=saba383810&show_icons=true&theme=gruvbox" />
