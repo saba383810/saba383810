@@ -16,13 +16,6 @@ Here are some ideas to get you started:
 -->
 <p>🌱 I'm currently learning Unity VR.</p>
 <p>📫 How to reach me:saba383810@gmail.com<p>
-  
-<p>⚡ Fun fact:</p>
-
-<p>My name is Sabato.</p>
-<p>I work as a programing teacher in cram school</p>
-<p>I’m a big fan of playing game and watching hololive streams.</p>
-<p>It's a pleasure to meet you.</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=saba383810&show_icons=true&theme=gruvbox" />
