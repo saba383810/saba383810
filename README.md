@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: My name is Sabato.
- I work as a programing teacher in cram school.
-I’m a big fan of playing game and watching hololive streams.
+- ⚡ Fun fact: 
 -->
 <p>🌱 I'm currently learning Unity VR.</p>
 <p>📫 How to reach me:saba383810@gmail.com<p>
@@ -22,7 +20,7 @@ I’m a big fan of playing game and watching hololive streams.
 <p>⚡ Fun fact:</p>
 
 <p>My name is Sabato.</p>
-<p>I work as a programing teacher in elementary,middle and high school.</p>
+<p>I work as a programing teacher in cram school</p>
 <p>I’m a big fan of playing game and watching hololive streams.</p>
 <p>It's a pleasure to meet you.</p>
 
