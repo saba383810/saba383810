@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: My name is Sabato.
- I work as a programing teacher in elementary,middle and high school.
+ I work as a programing teacher in cram school.
 I’m a big fan of playing game and watching hololive streams.
 -->
 <p>🌱 I'm currently learning Unity VR.</p>
