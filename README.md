@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 -->
-<p>🌱 I'm currently learning Unity.</p>
+<p>🌱  I’m currently working on unity engineer</p>
 <p>📫 How to reach me:saba383810@gmail.com<p>
 <!----
 <p>💻 I create games using <a href="https://www.jetbrains.com/ja-jp/rider/">Rider Editor</a>.</p>
