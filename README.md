@@ -4,6 +4,4 @@
     <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=saba383810&count_private=true&show_icons=true&locale=en&theme=tokyonight&hide=GLSL,HLSL,SCSS,CSS" alt="saba383810" href="" /></p>
 </a>
 
-[![github-chart](https://github-chart.vercel.app/api?user=saba383810)](https://github.com/rokumura7/github-chart)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![github-chart](https://github-chart.vercel.app/api?user=saba383810)[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
