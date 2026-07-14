@@ -23,20 +23,14 @@ motto:       "押して気持ちいい"
   </a>
 </p>
 
-<h3 align="center">
-  <a href="https://sabanogames.com">▶ sabanogames.com を見る</a>
-</h3>
+<p align="center">
+  <em>ゲームの「おもしろい」を、つくって・あそんで・ことばにする。</em><br/>
+  <a href="https://sabanogames.com">🌊 sabanogames.com</a>
+</p>
 
 ## 🔗 Links
 
 <p align="center">
   <a href="https://qiita.com/saba383810"><img src="https://img.shields.io/badge/Qiita-@saba383810-55c500?style=for-the-badge&labelColor=0e3a4d&logo=qiita&logoColor=white" alt="Qiita" /></a>
   <a href="https://x.com/saba383810"><img src="https://img.shields.io/badge/X-@saba383810-1DA1F2?style=for-the-badge&labelColor=0e3a4d&logo=x&logoColor=white" alt="X" /></a>
-</p>
-
----
-
-<p align="center">
-  <em>ゲームの「おもしろい」を、つくって・あそんで・ことばにする。</em><br/>
-  <a href="https://sabanogames.com">🌊 sabanogames.com</a>
 </p>
