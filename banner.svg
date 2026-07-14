@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" fill="none" font-family="'Segoe UI','Hiragino Kaku Gothic ProN',sans-serif">
+  <defs>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#177292"/>
+      <stop offset="1" stop-color="#0e3a4d"/>
+    </linearGradient>
+    <linearGradient id="ray" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="1000" height="240" rx="20"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1000" height="240" fill="url(#sea)"/>
+
+    <!-- 光の筋 -->
+    <polygon points="180,-20 260,-20 210,260 150,260" fill="url(#ray)">
+      <animateTransform attributeName="transform" type="translate" values="-30 0;30 0;-30 0" dur="9s" repeatCount="indefinite"/>
+    </polygon>
+    <polygon points="640,-20 690,-20 660,260 620,260" fill="url(#ray)" opacity="0.7">
+      <animateTransform attributeName="transform" type="translate" values="20 0;-20 0;20 0" dur="13s" repeatCount="indefinite"/>
+    </polygon>
+
+    <!-- 泡 -->
+    <g fill="#ffffff" opacity="0.5">
+      <circle cx="120" cy="200" r="5"><animate attributeName="cy" values="240;-20" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.6;0" dur="7s" repeatCount="indefinite"/></circle>
+      <circle cx="300" cy="200" r="3"><animate attributeName="cy" values="240;-20" dur="9s" begin="-3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.5;0" dur="9s" begin="-3s" repeatCount="indefinite"/></circle>
+      <circle cx="820" cy="200" r="4"><animate attributeName="cy" values="240;-20" dur="8s" begin="-5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.55;0" dur="8s" begin="-5s" repeatCount="indefinite"/></circle>
+      <circle cx="930" cy="200" r="6"><animate attributeName="cy" values="240;-20" dur="10s" begin="-2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.5;0" dur="10s" begin="-2s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- サカバンバスピス(右→左に泳ぐ) -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="1080 70;-120 70" dur="16s" repeatCount="indefinite"/>
+      <g transform="scale(1.1)">
+        <path d="M64 12 L80 5 C77 12 77 27 80 34 L64 27 Z" fill="#7fa8c0" stroke="#0e3a4d" stroke-width="2"/>
+        <path d="M4 19.5 C4 9 14 4 30 4 L54 5 C62 6 66 10 66 15 L66 24 C66 29 62 33 54 34 L30 35 C14 35 4 30 4 19.5 Z" fill="#8fb4cc" stroke="#0e3a4d" stroke-width="2.2"/>
+        <path d="M8 24 C16 30 44 31 58 29 L54 33 L30 34 C18 34 10 30 8 24 Z" fill="#d9e6f0"/>
+        <circle cx="11" cy="15" r="4.6" fill="#fff" stroke="#0e3a4d" stroke-width="1.6"/>
+        <circle cx="19.5" cy="14" r="4.6" fill="#fff" stroke="#0e3a4d" stroke-width="1.6"/>
+        <circle cx="10.4" cy="15.4" r="1.9" fill="#0e3a4d"/>
+        <circle cx="18.9" cy="14.4" r="1.9" fill="#0e3a4d"/>
+        <path d="M7.5 25 q 3 2.4 6.5 1.6" stroke="#0e3a4d" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+      </g>
+    </g>
+
+    <!-- 小魚 -->
+    <g fill="#2cb1d6" opacity="0.7">
+      <g><animateTransform attributeName="transform" type="translate" values="-60 180;1060 180" dur="22s" repeatCount="indefinite"/>
+        <path d="M0 8 Q 10 0 20 8 Q 10 16 0 8 Z"/><path d="M20 8 l8 -5 v10 Z"/></g>
+    </g>
+
+    <!-- タイトル -->
+    <text x="60" y="112" font-size="52" font-weight="800" fill="#ffffff">Saba
+      <tspan fill="#ff8a5c">.</tspan>no
+      <tspan>Games</tspan>
+    </text>
+    <text x="62" y="150" font-size="19" font-weight="600" fill="#8fdcef" font-family="monospace">// game feel &amp; UX engineering</text>
+    <text x="62" y="178" font-size="15" fill="#c9e3ee" font-family="monospace">saba383810 &#183; GameCreator / Unity</text>
+
+    <!-- 海底の波 -->
+    <path fill="#0b2f3f" opacity="0.6">
+      <animate attributeName="d" dur="6s" repeatCount="indefinite"
+        values="M0 210 Q 125 190 250 210 T 500 210 T 750 210 T 1000 210 L1000 240 L0 240 Z;
+                M0 210 Q 125 230 250 210 T 500 210 T 750 210 T 1000 210 L1000 240 L0 240 Z;
+                M0 210 Q 125 190 250 210 T 500 210 T 750 210 T 1000 210 L1000 240 L0 240 Z"/>
+    </path>
+    <path fill="#0e3a4d">
+      <animate attributeName="d" dur="5s" repeatCount="indefinite"
+        values="M0 222 Q 125 236 250 222 T 500 222 T 750 222 T 1000 222 L1000 240 L0 240 Z;
+                M0 222 Q 125 210 250 222 T 500 222 T 750 222 T 1000 222 L1000 240 L0 240 Z;
+                M0 222 Q 125 236 250 222 T 500 222 T 750 222 T 1000 222 L1000 240 L0 240 Z"/>
+    </path>
+    <rect y="238" width="1000" height="4" fill="#2cb1d6"/>
+  </g>
+</svg>
