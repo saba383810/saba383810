@@ -38,13 +38,6 @@ motto:       "押して気持ちいい"
 ![Astro](https://img.shields.io/badge/Astro-2cb1d6?style=flat-square&logo=astro&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-177292?style=flat-square&logo=githubactions&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saba383810&show_icons=true&hide_border=true&title_color=2cb1d6&icon_color=2cb1d6&text_color=8fb4cc&bg_color=0e3a4d" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saba383810&layout=compact&hide_border=true&title_color=2cb1d6&text_color=8fb4cc&bg_color=0e3a4d" alt="top langs" />
-</p>
-
 ---
 
 <p align="center">
