@@ -15,7 +15,7 @@ motto:       "押して気持ちいい"
 
 ## 🌊 Website
 
-つくったゲーム・技術ブログ・あそび場は、すべてこちらにまとめています。
+つくったゲーム・技術ブログをこちらにまとめています。
 
 <p align="center">
   <a href="https://sabanogames.com">
