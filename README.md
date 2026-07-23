@@ -10,7 +10,7 @@
 role:        [ game UX engineer, GameCreator, Unityの講師 ]
 focus:       ゲームの“おもしろさ” / ゲーム体験 / 触り心地 / UIアニメーション
 main_engine: Unity
-motto:       "押して気持ちいい"
+motto:       "技術力でみんなをワクワクさせる！"
 ```
 
 ## 🌊 Website
